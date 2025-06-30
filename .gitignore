@@ -1,3 +1,4 @@
 node_modules
 frontend/redux_slice/node_modules
 Backend/config.py
+Backend/myenv
